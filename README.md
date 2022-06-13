@@ -40,11 +40,10 @@ In order to accomplish this, the API must fulfill the following use cases:
 ## Notes
 
 1. Please use *Ruby on Rails* to implement the solution (everything you need is in the Reference section below).
-2. Use may use any database you want (including Sqlite).
+2. Use may use any database you want (but we will appreciate if you use Postgresql).
 3. No authentication is needed - it's an alien apocalypse, no one will try to hack a system while running from a horde of alien (and they don't know REST, they still use SOAP);
 4. We still care about proper programming techniques, you must showcase that you're worthy of surving the alien apocalypse through the sheer strength of your skills;
-5. Don't forget to make at least a minimal documentation of the API endpoints and how to use them;
-6. Use your time wisely; the abolute optimal solution might take too long to be effective in the apocalypse, so you must come up with the best possible solution that will hold up within the least ammount of time and still be able to showcase your skills in order to prove your worth.
+5. Don't forget to make at least a minimal documentation of the API endpoints and how to use them (Postman is awesome for this);
 
 ## How can I submit it?
 
